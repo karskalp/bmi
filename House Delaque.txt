@@ -1,0 +1,2200 @@
+{
+  "games" : [ {
+    "gameName" : "Necromunda: Underhive",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "Leader",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 166,
+          "optionName" : "%Agility",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 167,
+          "optionName" : "%Cunning",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 169,
+          "optionName" : "%Leadership",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 171,
+          "optionName" : "$Basic Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 172,
+          "optionName" : "$Close Combat Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 173,
+          "optionName" : "$Pistols - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 174,
+          "optionName" : "$Special Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 175,
+          "optionName" : "$Heavy Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 176,
+          "optionName" : "$Grenades - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 177,
+          "optionName" : "$Armour - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 178,
+          "optionName" : "$Personal Equipment - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Leaders",
+        "unitCost" : 110.0,
+        "unitID" : 121,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Champion",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 168,
+          "optionName" : "%Cunning",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 170,
+          "optionName" : "%Shooting",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 179,
+          "optionName" : "$Basic Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 180,
+          "optionName" : "$Close Combat Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 181,
+          "optionName" : "$Pistols - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 182,
+          "optionName" : "$Special Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 183,
+          "optionName" : "$Heavy Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 184,
+          "optionName" : "$Grenades - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 185,
+          "optionName" : "$Armour - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 186,
+          "optionName" : "$Personal Equipment - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Champions",
+        "unitCost" : 95.0,
+        "unitID" : 122,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Juve",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 187,
+          "optionName" : "$Close Combat Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 188,
+          "optionName" : "$Pistols - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Juves",
+        "unitCost" : 25.0,
+        "unitID" : 123,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ganger",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 189,
+          "optionName" : "$Pistols - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 190,
+          "optionName" : "$Close Combat Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 191,
+          "optionName" : "$Basic Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 192,
+          "optionName" : "$Special Weapons - Delaque",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Gangers",
+        "unitCost" : 50.0,
+        "unitID" : 124,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "House Delaque Spyker",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 704,
+          "optionName" : "%Savant",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 720,
+          "optionName" : "Displacer field",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Brutes",
+        "unitCost" : 190.0,
+        "unitID" : 693,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Cephalopod Spekter",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 758,
+          "optionName" : "%Cunning",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Exotic Beasts",
+        "unitCost" : 100.0,
+        "unitID" : 751,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : [ {
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 125,
+          "optionName" : "Autogun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 126,
+          "optionName" : "Shotgun(with solid and scatter ammo)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 127,
+          "optionName" : "Lasgun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 128,
+          "optionName" : "Throwing knives",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Basic Weapons - Delaque"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 129,
+          "optionName" : "Digi lasers",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 130,
+          "optionName" : "Shock stave",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 131,
+          "optionName" : "Stiletto knife",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 132,
+          "optionName" : "Web gauntlet",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Close Combat Weapons - Delaque"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 133,
+          "optionName" : "Autopistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 134,
+          "optionName" : "Flechette pisol(with solid and fleshbane ammo)",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 75.0,
+          "listOfRestrictions" : null,
+          "optionID" : 135,
+          "optionName" : "Hand flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 136,
+          "optionName" : "Laspistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 137,
+          "optionName" : "Plasma pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 138,
+          "optionName" : "Stub gun ",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 80.0,
+          "listOfRestrictions" : null,
+          "optionID" : 139,
+          "optionName" : "Web pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Pistols - Delaque"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 140.0,
+          "listOfRestrictions" : null,
+          "optionID" : 140,
+          "optionName" : "Flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 120.0,
+          "listOfRestrictions" : null,
+          "optionID" : 141,
+          "optionName" : "Grav gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 142,
+          "optionName" : "Long rifle",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 135.0,
+          "listOfRestrictions" : null,
+          "optionID" : 143,
+          "optionName" : "Meltagun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 100.0,
+          "listOfRestrictions" : null,
+          "optionID" : 144,
+          "optionName" : "Plasma gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 145,
+          "optionName" : "Stub gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 80.0,
+          "listOfRestrictions" : null,
+          "optionID" : 146,
+          "optionName" : "Web pistol",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Special Weapons - Delaque"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 195.0,
+          "listOfRestrictions" : null,
+          "optionID" : 147,
+          "optionName" : "Heavy flamer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Heavy Weapons - Delaque"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 148,
+          "optionName" : "Choke gas grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 149,
+          "optionName" : "Photon flash grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 40.0,
+          "listOfRestrictions" : null,
+          "optionID" : 150,
+          "optionName" : "Scare gas grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 152,
+          "optionName" : "Smoke grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 153,
+          "optionName" : "Stun grenades",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Grenades - Delaque"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 154,
+          "optionName" : "Flak armour",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 155,
+          "optionName" : "Mesh armour",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Armour - Delaque"
+      }, {
+        "listOfOptions" : [ {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 156,
+          "optionName" : "Bio-scanner",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 157,
+          "optionName" : "Filter plugs",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 158,
+          "optionName" : "Grapnel launcher",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 159,
+          "optionName" : "Gunshroud",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 160,
+          "optionName" : "Infra sight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 35.0,
+          "listOfRestrictions" : null,
+          "optionID" : 161,
+          "optionName" : "Mono-sight",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 162,
+          "optionName" : "Photo-goggles",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 163,
+          "optionName" : "Respirator",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 164,
+          "optionName" : "Skinblade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 165,
+          "optionName" : "Web solvent",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "equipmentName" : "$Personal Equipment - Delaque"
+      } ],
+      "armyName" : "House Delaque",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ "Leaders", "Champions", "Juves", "Gangers", "Bounty Hunter", "Brutes", "Exotic Beasts" ],
+    "listOfEquipmentOptions" : [ {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 1,
+        "optionName" : "Catfall",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 2,
+        "optionName" : "Clamber",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 3,
+        "optionName" : "Dodge",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 4,
+        "optionName" : "Mighty Leap",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 5,
+        "optionName" : "Spring Up",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 6,
+        "optionName" : "Sprint",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Agility"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 7,
+        "optionName" : "Bull Charge",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 8,
+        "optionName" : "Bulging Biceps",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 9,
+        "optionName" : "Crushing Blow",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 10,
+        "optionName" : "Headbutt",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 11,
+        "optionName" : "Hurl",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 12,
+        "optionName" : "Iron Jaw",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Brawn"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 13,
+        "optionName" : "Combat Master",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 14,
+        "optionName" : "Counter-Attack",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 15,
+        "optionName" : "Disarm",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 16,
+        "optionName" : "Parry",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 17,
+        "optionName" : "Rain of Blows",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 20,
+        "optionName" : "Step Aside",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Combat"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 21,
+        "optionName" : "Backstab",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 22,
+        "optionName" : "Escape Artist",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 23,
+        "optionName" : "Evade",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 24,
+        "optionName" : "Infiltrate",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 25,
+        "optionName" : "Lie Low",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 26,
+        "optionName" : "Overwatch",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Cunning"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 27,
+        "optionName" : "Berserker",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 28,
+        "optionName" : "Fearsome",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 29,
+        "optionName" : "Impetuous",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 30,
+        "optionName" : "Nerves of Steel",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 31,
+        "optionName" : "True Grit",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 32,
+        "optionName" : "Unstoppable",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Ferocity"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 33,
+        "optionName" : "Commanding Presence",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 34,
+        "optionName" : "Inspirational",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 35,
+        "optionName" : "Iron Will",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 36,
+        "optionName" : "Mentor",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 37,
+        "optionName" : "Overseer",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 38,
+        "optionName" : "Regroup",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Leadership"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 39,
+        "optionName" : "Fast Shot",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 40,
+        "optionName" : "Gunfighter",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 41,
+        "optionName" : "Hip Shooting",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 42,
+        "optionName" : "Marksman",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 43,
+        "optionName" : "Precision Shot",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 44,
+        "optionName" : "Trick Shot",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Shooting"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 45,
+        "optionName" : "Ballistics Expert",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 46,
+        "optionName" : "Connected",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 47,
+        "optionName" : "Fixer",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 48,
+        "optionName" : "Medicae",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 49,
+        "optionName" : "Munitioneer",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 50,
+        "optionName" : "Savvy Trader",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Savant"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 479,
+        "optionName" : "Autogun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 480,
+        "optionName" : "Reclaimed autogun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 55.0,
+        "listOfRestrictions" : null,
+        "optionID" : 481,
+        "optionName" : "Boltgun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 70.0,
+        "listOfRestrictions" : null,
+        "optionID" : 482,
+        "optionName" : "Combat shotgun(with salvo and shredder ammo)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 484,
+        "optionName" : "Combat shotgun(with firestorm ammo)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 485,
+        "optionName" : "Lasgun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 486,
+        "optionName" : "Sawn-off shotgun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 487,
+        "optionName" : "Shotgun(with solid and scatter ammo)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 20.0,
+        "listOfRestrictions" : null,
+        "optionID" : 488,
+        "optionName" : "Shotgun(with executioner ammo)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 489,
+        "optionName" : "Shotgun(with inferno ammo)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 490,
+        "optionName" : "Throwing knives",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Basic Weapons - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 491,
+        "optionName" : "Autopistol",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 5.0,
+        "listOfRestrictions" : null,
+        "optionID" : 492,
+        "optionName" : "Reclaimed autopistol",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 45.0,
+        "listOfRestrictions" : null,
+        "optionID" : 493,
+        "optionName" : "Bolt pistol",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 65.0,
+        "listOfRestrictions" : null,
+        "optionID" : 494,
+        "optionName" : "Combi-pistol(autopistol/hand flamer)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 50.0,
+        "listOfRestrictions" : null,
+        "optionID" : 495,
+        "optionName" : "Combi-pistol(autopistol/plasma pistol)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 110.0,
+        "listOfRestrictions" : null,
+        "optionID" : 496,
+        "optionName" : "Combi-pistol(bolt pistol/hand flamer)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 80.0,
+        "listOfRestrictions" : null,
+        "optionID" : 497,
+        "optionName" : "Combi-pistol(bolt pistol/plasma pistol)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 40.0,
+        "listOfRestrictions" : null,
+        "optionID" : 498,
+        "optionName" : "Combi-pistol(stub gun/plasma pistol)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 75.0,
+        "listOfRestrictions" : null,
+        "optionID" : 499,
+        "optionName" : "Hand flamer",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 500,
+        "optionName" : "Laspistol",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 501,
+        "optionName" : "Needle pistol",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 50.0,
+        "listOfRestrictions" : null,
+        "optionID" : 502,
+        "optionName" : "Plasma pistol",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 5.0,
+        "listOfRestrictions" : null,
+        "optionID" : 503,
+        "optionName" : "Stub gun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 505,
+        "optionName" : "Stub gun(with dumdum rounds)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 90.0,
+        "listOfRestrictions" : null,
+        "optionID" : 506,
+        "optionName" : "Web pistol",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Pistols - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 110.0,
+        "listOfRestrictions" : null,
+        "optionID" : 507,
+        "optionName" : "Combi-weapon(autogun/flamer)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 508,
+        "optionName" : "Combi-weapon(autogun/frag grenade launcher)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 60.0,
+        "listOfRestrictions" : null,
+        "optionID" : 509,
+        "optionName" : "Combi-weapon(bolter/frag grenade launcher)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 180.0,
+        "listOfRestrictions" : null,
+        "optionID" : 510,
+        "optionName" : "Combi-weapon(bolter/flamer)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 170.0,
+        "listOfRestrictions" : null,
+        "optionID" : 511,
+        "optionName" : "Combi-weapon(bolter/melta)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 90.0,
+        "listOfRestrictions" : null,
+        "optionID" : 512,
+        "optionName" : "Combi-weapon(bolter/needler)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 115.0,
+        "listOfRestrictions" : null,
+        "optionID" : 513,
+        "optionName" : "Combi-weapon(bolter/plasma)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 140.0,
+        "listOfRestrictions" : null,
+        "optionID" : 514,
+        "optionName" : "Flamer",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 120.0,
+        "listOfRestrictions" : null,
+        "optionID" : 515,
+        "optionName" : "Grav-gun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 65.0,
+        "listOfRestrictions" : null,
+        "optionID" : 516,
+        "optionName" : "Grenade launcher(frag and krak grenades)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 35.0,
+        "listOfRestrictions" : null,
+        "optionID" : 517,
+        "optionName" : "Grenade launcher(choke gas grenades)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 518,
+        "optionName" : "Grenade launcher(photon flash grenades)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 45.0,
+        "listOfRestrictions" : null,
+        "optionID" : 519,
+        "optionName" : "Grenade launcher(scare gas grenades)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 520,
+        "optionName" : "Grenade launcher(smoke gas grenades)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 20.0,
+        "listOfRestrictions" : null,
+        "optionID" : 521,
+        "optionName" : "Long las",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 522,
+        "optionName" : "Long rifle",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 135.0,
+        "listOfRestrictions" : null,
+        "optionID" : 523,
+        "optionName" : "Meltagun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 40.0,
+        "listOfRestrictions" : null,
+        "optionID" : 524,
+        "optionName" : "Needle rifle",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 100.0,
+        "listOfRestrictions" : null,
+        "optionID" : 525,
+        "optionName" : "Plasma gun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 125.0,
+        "listOfRestrictions" : null,
+        "optionID" : 526,
+        "optionName" : "Web gun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Special Weapons  - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 110.0,
+        "listOfRestrictions" : null,
+        "optionID" : 527,
+        "optionName" : "Harpoon launcher",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 160.0,
+        "listOfRestrictions" : null,
+        "optionID" : 528,
+        "optionName" : "Heavy bolter",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 195.0,
+        "listOfRestrictions" : null,
+        "optionID" : 529,
+        "optionName" : "Heavy flamer",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 130.0,
+        "listOfRestrictions" : null,
+        "optionID" : 530,
+        "optionName" : "Heavy stubber",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 155.0,
+        "listOfRestrictions" : null,
+        "optionID" : 531,
+        "optionName" : "Lascannon",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 125.0,
+        "listOfRestrictions" : null,
+        "optionID" : 532,
+        "optionName" : "Mining laser",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 165.0,
+        "listOfRestrictions" : null,
+        "optionID" : 533,
+        "optionName" : "Missile launcher(frag and krak missiles)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 180.0,
+        "listOfRestrictions" : null,
+        "optionID" : 534,
+        "optionName" : "Multi-melta",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 130.0,
+        "listOfRestrictions" : null,
+        "optionID" : 535,
+        "optionName" : "Plasma cannon",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 140.0,
+        "listOfRestrictions" : null,
+        "optionID" : 536,
+        "optionName" : "Seismic cannon",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Heavy Weapons  - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 537,
+        "optionName" : "Fighting knife",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 25.0,
+        "listOfRestrictions" : null,
+        "optionID" : 538,
+        "optionName" : "Power knife",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 20.0,
+        "listOfRestrictions" : null,
+        "optionID" : 539,
+        "optionName" : "Stiletto knife",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 540,
+        "optionName" : "Axe",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 541,
+        "optionName" : "Chainaxe",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 25.0,
+        "listOfRestrictions" : null,
+        "optionID" : 542,
+        "optionName" : "Chainsword",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 25.0,
+        "listOfRestrictions" : null,
+        "optionID" : 543,
+        "optionName" : "Digi laser",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 20.0,
+        "listOfRestrictions" : null,
+        "optionID" : 544,
+        "optionName" : "Flail",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 545,
+        "optionName" : "Maul(club)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 35.0,
+        "listOfRestrictions" : null,
+        "optionID" : 546,
+        "optionName" : "Servo claw",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 20.0,
+        "listOfRestrictions" : null,
+        "optionID" : 547,
+        "optionName" : "Sword",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 35.0,
+        "listOfRestrictions" : null,
+        "optionID" : 548,
+        "optionName" : "Stiletto sword",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 85.0,
+        "listOfRestrictions" : null,
+        "optionID" : 549,
+        "optionName" : "Las cutter",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 50.0,
+        "listOfRestrictions" : null,
+        "optionID" : 550,
+        "optionName" : "Power sword",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 35.0,
+        "listOfRestrictions" : null,
+        "optionID" : 551,
+        "optionName" : "Power axe",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 45.0,
+        "listOfRestrictions" : null,
+        "optionID" : 552,
+        "optionName" : "Power hammer",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 40.0,
+        "listOfRestrictions" : null,
+        "optionID" : 553,
+        "optionName" : "Power pick",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 554,
+        "optionName" : "Power maul",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 555,
+        "optionName" : "Shock baton",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 25.0,
+        "listOfRestrictions" : null,
+        "optionID" : 556,
+        "optionName" : "Shock stave",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 70.0,
+        "listOfRestrictions" : null,
+        "optionID" : 557,
+        "optionName" : "Thunder hammer",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 60.0,
+        "listOfRestrictions" : null,
+        "optionID" : 558,
+        "optionName" : "Chain glaive",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 135.0,
+        "listOfRestrictions" : null,
+        "optionID" : 559,
+        "optionName" : "Heavy rock cutter",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 90.0,
+        "listOfRestrictions" : null,
+        "optionID" : 560,
+        "optionName" : "Heavy rock drill",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 120.0,
+        "listOfRestrictions" : null,
+        "optionID" : 561,
+        "optionName" : "Heavy rock saw",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 25.0,
+        "listOfRestrictions" : null,
+        "optionID" : 562,
+        "optionName" : "Two-handed axe",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 35.0,
+        "listOfRestrictions" : null,
+        "optionID" : 563,
+        "optionName" : "Two-handed hammer",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Close Combat Weapons - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 35.0,
+        "listOfRestrictions" : null,
+        "optionID" : 564,
+        "optionName" : "Blasting charges",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 50.0,
+        "listOfRestrictions" : null,
+        "optionID" : 565,
+        "optionName" : "Choke gas grenades",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 50.0,
+        "listOfRestrictions" : null,
+        "optionID" : 566,
+        "optionName" : "Demo charges",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 567,
+        "optionName" : "Frag grenades",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 40.0,
+        "listOfRestrictions" : null,
+        "optionID" : 568,
+        "optionName" : "Incendiary charges",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 45.0,
+        "listOfRestrictions" : null,
+        "optionID" : 569,
+        "optionName" : "Krak grenades",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 60.0,
+        "listOfRestrictions" : null,
+        "optionID" : 570,
+        "optionName" : "Melta bombs",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 571,
+        "optionName" : "Photon flash grenades",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 45.0,
+        "listOfRestrictions" : null,
+        "optionID" : 572,
+        "optionName" : "Scare gas grenades",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 573,
+        "optionName" : "Smoke grenades",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 574,
+        "optionName" : "Stun grenades",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Grenades  - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 80.0,
+        "listOfRestrictions" : null,
+        "optionID" : 575,
+        "optionName" : "Light carapace armour",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 100.0,
+        "listOfRestrictions" : null,
+        "optionID" : 576,
+        "optionName" : "Heavy carapace armour",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 577,
+        "optionName" : "Flak armour",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 578,
+        "optionName" : "Hazard suit",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 580,
+        "optionName" : "Mesh armour",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Armour  - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 60.0,
+        "listOfRestrictions" : null,
+        "optionID" : 581,
+        "optionName" : "Conversion field",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 70.0,
+        "listOfRestrictions" : null,
+        "optionID" : 582,
+        "optionName" : "Displacer field",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 50.0,
+        "listOfRestrictions" : null,
+        "optionID" : 583,
+        "optionName" : "Refractor field",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Field Armour - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 65.0,
+        "listOfRestrictions" : null,
+        "optionID" : 584,
+        "optionName" : "Aoritc superchargers - Mundane",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 45.0,
+        "listOfRestrictions" : null,
+        "optionID" : 585,
+        "optionName" : "Bionic eye - Mundane",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 45.0,
+        "listOfRestrictions" : null,
+        "optionID" : 586,
+        "optionName" : "Bionic arm - Mundane",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 25.0,
+        "listOfRestrictions" : null,
+        "optionID" : 587,
+        "optionName" : "Bionic leg - Mundane",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 588,
+        "optionName" : "Cortex cogitator - Mundane",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 589,
+        "optionName" : "Cortex cogitator - Improved",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 45.0,
+        "listOfRestrictions" : null,
+        "optionID" : 590,
+        "optionName" : "Lobo chip - Improved",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 20.0,
+        "listOfRestrictions" : null,
+        "optionID" : 591,
+        "optionName" : "Lobo chip - Mundane",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 70.0,
+        "listOfRestrictions" : null,
+        "optionID" : 592,
+        "optionName" : "Skeletal enchancers - Mundane",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Bionics  - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 60.0,
+        "listOfRestrictions" : null,
+        "optionID" : 593,
+        "optionName" : "Ammo chache",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 20.0,
+        "listOfRestrictions" : null,
+        "optionID" : 594,
+        "optionName" : "Booby traps(frag trap)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 40.0,
+        "listOfRestrictions" : null,
+        "optionID" : 595,
+        "optionName" : "Booby traps(gas trap)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 50.0,
+        "listOfRestrictions" : null,
+        "optionID" : 596,
+        "optionName" : "Booby traps(melta trap)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Gang Equipment - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 25.0,
+        "listOfRestrictions" : null,
+        "optionID" : 597,
+        "optionName" : "Armoured undersuit",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 35.0,
+        "listOfRestrictions" : null,
+        "optionID" : 598,
+        "optionName" : "Bio-booster",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 599,
+        "optionName" : "Bio scanner",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 600,
+        "optionName" : "Chem-synth",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 601,
+        "optionName" : "Drop rig",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 602,
+        "optionName" : "Filter plugs",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 25.0,
+        "listOfRestrictions" : null,
+        "optionID" : 603,
+        "optionName" : "Grapnel launcher",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 50.0,
+        "listOfRestrictions" : null,
+        "optionID" : 604,
+        "optionName" : "Grav-chute",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 605,
+        "optionName" : "Medicae kit",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 35.0,
+        "listOfRestrictions" : null,
+        "optionID" : 606,
+        "optionName" : "Photo goggles",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 607,
+        "optionName" : "Respirator",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 130.0,
+        "listOfRestrictions" : null,
+        "optionID" : 608,
+        "optionName" : "Servo harness (partial)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 160.0,
+        "listOfRestrictions" : null,
+        "optionID" : 609,
+        "optionName" : "Servo harness (full)",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 10.0,
+        "listOfRestrictions" : null,
+        "optionID" : 610,
+        "optionName" : "Skinblade",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 30.0,
+        "listOfRestrictions" : null,
+        "optionID" : 611,
+        "optionName" : "Stimm-slug stash",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 15.0,
+        "listOfRestrictions" : null,
+        "optionID" : 612,
+        "optionName" : "Strip kit",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 25.0,
+        "listOfRestrictions" : null,
+        "optionID" : 613,
+        "optionName" : "Web solvent",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Personal Equipment - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 20.0,
+        "listOfRestrictions" : null,
+        "optionID" : 614,
+        "optionName" : "Gunshroud",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 20.0,
+        "listOfRestrictions" : null,
+        "optionID" : 615,
+        "optionName" : "Hotshot las pack",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 40.0,
+        "listOfRestrictions" : null,
+        "optionID" : 616,
+        "optionName" : "Infra-sight",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 35.0,
+        "listOfRestrictions" : null,
+        "optionID" : 617,
+        "optionName" : "Las-projector",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 35.0,
+        "listOfRestrictions" : null,
+        "optionID" : 618,
+        "optionName" : "Mono-sight",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 60.0,
+        "listOfRestrictions" : null,
+        "optionID" : 619,
+        "optionName" : "Suspensor",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 25.0,
+        "listOfRestrictions" : null,
+        "optionID" : 620,
+        "optionName" : "Telescopic sight",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Weapon Accessories - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 50.0,
+        "listOfRestrictions" : null,
+        "optionID" : 621,
+        "optionName" : "Exotic furs",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 40.0,
+        "listOfRestrictions" : null,
+        "optionID" : 622,
+        "optionName" : "Golt-plated gun",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 80.0,
+        "listOfRestrictions" : null,
+        "optionID" : 623,
+        "optionName" : "Opulent jewellery",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 50.0,
+        "listOfRestrictions" : null,
+        "optionID" : 624,
+        "optionName" : "Uphive raiments",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 65.0,
+        "listOfRestrictions" : null,
+        "optionID" : 625,
+        "optionName" : "Gun skull",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 80.0,
+        "listOfRestrictions" : null,
+        "optionID" : 626,
+        "optionName" : "Medi skull",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 60.0,
+        "listOfRestrictions" : null,
+        "optionID" : 627,
+        "optionName" : "Sensor skull",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Status Items - Trading Post"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 735,
+        "optionName" : "Catfall",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 736,
+        "optionName" : "Dodge",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 737,
+        "optionName" : "Sprint",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Agility - Beasts"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 738,
+        "optionName" : "Bull Charge",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 739,
+        "optionName" : "Crushing Blow",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 740,
+        "optionName" : "Iron Jaws",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Brawn - Beasts"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 741,
+        "optionName" : "Counter-attack",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 742,
+        "optionName" : "Disarm",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 743,
+        "optionName" : "Step Aside",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Combat - Beasts"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 744,
+        "optionName" : "Backstab",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 745,
+        "optionName" : "Evade",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 746,
+        "optionName" : "Lie Low",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Cunning - Beasts"
+    }, {
+      "listOfOptions" : [ {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 747,
+        "optionName" : "Berserker",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 748,
+        "optionName" : "Fearsome",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      }, {
+        "optionCost" : 0.0,
+        "listOfRestrictions" : null,
+        "optionID" : 749,
+        "optionName" : "Nerves of Steel",
+        "autoAddDictionary" : { },
+        "listOfCurrencies" : { }
+      } ],
+      "equipmentName" : "%Ferocity - Beasts"
+    } ],
+    "listOfCurrencies" : [ ]
+  } ]
+}
